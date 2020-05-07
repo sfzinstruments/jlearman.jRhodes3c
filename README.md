@@ -2,6 +2,8 @@
 
 SFZ multi-layer instrument: 1977 Rhodes Mark I, looped
 
+16 Mb disk space
+
 ## jRhodes3 family
 
 jRhodes3 is my sampling of my 1977 Rhodes Mark I Stage Piano, which I purchased
@@ -20,7 +22,7 @@ Samples are encoded in lossless FLAC format to reduce disk space.
 
 ## This version: jRhodes3c
 
-jRhodes3[b]c[/b] is a looped version, with stereo option.  Samples are looped after a
+jRhodes3**c** is a looped version, with stereo option.  Samples are looped after a
 few seconds, to save memory and disk space.
 
 The stereo effect is a mild pitch-shift doubling to create a stereo image, applied in mid-side effect so that it cancels out when summed to mono.

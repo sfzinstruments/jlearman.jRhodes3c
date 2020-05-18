@@ -44,13 +44,12 @@ supports FLAC.
 The samples were recorded around 2006, from a Rhodes I had bought
 new in 1978.  The samples were recorded directly from the harp
 connector, with EQ applied to give the tone I usually used, enhancing
-the bell-like quality and carving out low mids.  Two control files
-are provided; one is the original mono, and the other "stereo" has
+the bell-like quality and carving out low mids.  THree SFZ control files
+are provided; one is the original mono, another "stereo" has
 a stereo image added by applying a 2 cent pitch shift using mid-side
 technique (so the effect cancels completely to the mono, when
-summed to mono.)  Noise was removed from the samples using CoolEdit 96.
-The samples were recorded around 2006, and I no longer have the
-piano.
+summed to mono), and the third has both on different MIDI programs.
+Noise was removed from the samples using CoolEdit 96.
 
 Samples in this set were looped to reduce memory footprint.
 For full-length unlooped samples, see jRhodes3d.
@@ -72,7 +71,3 @@ using different tools (SoX library rather than r8brain.)
 I lost the original sample recordings in a home fire, but fortunately
 I did have distribution copies of the original looped and unlooped
 soundfont files, and these sample sets are recreated from them.
-
-See http://github.com/jlearman repos beginning with "sfz" for other
-sampled instruments.
-

@@ -1,18 +1,18 @@
 # sfz-jRhodes3c-looped
 
-SFZ multi-layer instrument: 1977 Rhodes Mark I, looped
+SFZ multi-layer instrument: 1977 Rhodes Mark I Stage 73, looped
 
 16 Mb disk space
 
 ## jRhodes3 family
 
-jRhodes3 is my sampling of my 1977 Rhodes Mark I Stage Piano, which I purchased
-new back in 1978. This sample set is not intended to be a jack-of-all-trades
-Rhodes, but rather, it's how I set up and used my Rhodes. It was recorded with EQ,
-with a treble boost and low-mid scoop, emphasizing the bell tones, but with
+jRhodes3 is my sampling of my 1977 Rhodes Mark I Stage 73 electric piano, which
+I purchased new back in 1978. This sample set is not intended to be a jack-of-all-trades
+Rhodes, but rather, it's how I usually set up and used my Rhodes. It was recorded with EQ,
+with a treble boost and low-mid scoop, emphasizing the bell tones, and with
 substantial bark on the higher velocity layers. There are 5 layers, sampled
 to peak at 3dB difference per layer at on the low notes and to maintain volume
-throughout each layer. Not all layers are full-keyboard width, higher notes
+throughout each layer. Not all layers are full-keyboard width, as higher notes
 don't change timbre as much.
 
 The set includes 67 16-bit looped samples, with up to 5 velocity layers,
@@ -44,11 +44,9 @@ supports FLAC.
 The samples were recorded around 2006, from a Rhodes I had bought
 new in 1978.  The samples were recorded directly from the harp
 connector, with EQ applied to give the tone I usually used, enhancing
-the bell-like quality and carving out low mids.  THree SFZ control files
-are provided; one is the original mono, another "stereo" has
-a stereo image added by applying a 2 cent pitch shift using mid-side
-technique (so the effect cancels completely to the mono, when
-summed to mono), and the third has both on different MIDI programs.
+the bell-like quality and carving out low mids.  The stereo samples have
+a stereo image added to by applying a 2 cent pitch shift using mid-side
+technique (so the effect cancels completely when summed to mono).
 Noise was removed from the samples using CoolEdit 96.
 
 Samples in this set were looped to reduce memory footprint.

@@ -34,10 +34,10 @@ Three .szf files are included:
 
 ## How-to
 
-Click the green "Clone or download" button above, and choose
-"Download ZIP".  Unpack the .zip file into a folder of your choice,
-and load the result into your sample player.  I use Sforzando, which
-supports FLAC.
+Click the green "Code" button above, and choose "Download ZIP". Unpack the .zip
+file into a folder of your choice, and load the result into your sample player.  I use Sforzando,
+which supports FLAC.  You only need the jRhodes3c-flac-sfz folder and its contents.
+The .sfz file in there is what you load into your player.
 
 ## Sampling Details
 

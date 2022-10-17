@@ -1,6 +1,6 @@
-# sfz-jRhodes3c-looped
+# jlearman.jRhodes3c
 
-SFZ multi-layer instrument: 1977 Rhodes Mark I Stage 73, looped
+1977 Rhodes Mark I Stage 73, shorter looped samples
 
 16 Mb disk space
 
